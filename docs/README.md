@@ -12,13 +12,6 @@ OctoAcme delivers cross-functional projects using these key principles:
 - Project lifecycle: Initiation → Planning → Execution → Release → Retrospective/Close
 - Use of GitHub Projects, Issue templates, and living documentation for traceability and continuous improvement
 
-How the lifecycle maps to our docs:
-- Initiation: Project One-pager and initiation checklist (see Project Initiation Guide)
-- Planning: Backlog, estimates, DoD, risk & dependency capture (see Project Planning)
-- Execution: Day-to-day work, PR workflow, CI, QA (see Execution & Tracking)
-- Release: Pre-release checks, deployment checklist, rollback playbook (see Release & Deployment)
-- Retrospective: Capture learnings, convert to backlog items, follow-up (see Retrospective & Continuous Improvement)
-
 ## Quick Links to Process Documents
 - [Project Management Overview](docs/octoacme-project-management-overview.md)
 - [Project Initiation Guide](docs/octoacme-project-initiation.md)
@@ -28,6 +21,7 @@ How the lifecycle maps to our docs:
 - [Release & Deployment Guide](docs/octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](docs/octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](docs/octoacme-roles-and-personas.md)
+- [Roles Checklist Template](docs/roles-and-personas-checklist.md)
 
 ## How to use these docs
 - This README is the single point of entry for process docs under docs/.
